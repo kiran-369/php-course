@@ -1,4 +1,4 @@
-    <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
   <head>
     <title>PHP Store</title>
@@ -20,4 +20,3 @@
     ?>
   </body>
 </html>
-  
